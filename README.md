@@ -1,12 +1,13 @@
-# woocommerce-plugin
-
 # WooCommerce Payment Gateway - MaxPay 
 Tags: MaxPay, WooCommerce, Payment, Gateway, Credit Cards, Shopping Cart, Extension
+
 Requires at least: 3.0.0
+
 License: GPLv2 or later
+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Accept all major credit cards directly on MaxPay.com via Woocommerce Payment Gateway.
+Accept all major credit cards directly on MaxPay.com via Woocommerce Payment Gateway
 
 ## Description
 
